@@ -2,7 +2,7 @@
     "name": "anton12russ/socialauth",
     "description": "A short description of what your package does",
     "require": {
-        "php": ">=7.4",
+        "php": ">=7.0",
         "another-vendor/package": "1.*"
     }
 }
